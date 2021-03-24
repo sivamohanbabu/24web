@@ -1,0 +1,65 @@
+.cd-main-header {
+    border-top: 2px solid #000000;
+    font-family:serif;
+    padding-top: 1em;
+    font-size: xx-large;
+    font-weight: bolder;
+  
+}
+.cd-main-header {
+    height: 65px;
+    background: #ffffff;
+    z-index: 999;
+}
+.cd-logo {
+    display: block;
+    left: 14px;
+    top: 15px;
+}
+img {
+    max-width: 100%;
+}
+img {
+    border: 0;
+    outline: none;
+}
+.cd-logo2 {
+    right: 20px;
+    top: 21px;
+}
+.cd-logo2 {
+    position: absolute;
+    top: 12px;
+    right: 5%;
+    z-index: 99;
+}
+h1{
+ font-family:serif;
+}
+label{
+   font-weight: 100;
+}
+hr{
+    border-top: 2px solid #000000;
+}
+.container{
+    max-width: 500px;
+    background-color: lightsteelblue;
+    text-shadow: gold;
+   text-emphasis-color: white;
+}
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    font-variant: small-caps;
+}
+button{
+    cursor: pointer;
+    color: lightyellow;
+    background: #213d77;
+text-decoration: none;
+}
+button:focus, button:hover {
+    box-shadow: 0 0 0 .05em #fb792b !important;
+    border-color: #fb792b !important;
+}

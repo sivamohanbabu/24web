@@ -1,0 +1,61 @@
+div{
+    text-align: center;
+}
+.container{
+    text-align: center;
+    
+}
+.btn span {
+
+    font-weight: lighter;
+    font-size: 40px;
+    line-height: 1.4;
+    color:#f5f6f7;
+    font-family: 'proxima_nova_rgbold';
+    font-size: 30px;
+    line-height: 1.6;
+    letter-spacing: .1px;
+    text-align: center;
+    position: static;
+    bottom: 0;
+    padding: 0;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    background-color:#ac1111;
+   
+   
+    
+}
+.footer{
+    margin-top: 50px;
+}
+
+    
+   
+   
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color:#003865;
+    line-height: 50px;
+    font-size: 50px;
+    font-family: 'Graphik Semibold', "arial", "sans-serif";
+}
+.featuredBulletPoints {
+    border: 1px solid #d5d9e0;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px 0 15px;
+    font-family: 'Rubik', sans-serif;
+}
+.header{
+    color: black;
+    tab-size: 0em;
+    line-height: 8;
+    
+}
+
+  
